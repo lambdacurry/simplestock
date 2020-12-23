@@ -7,6 +7,7 @@ If it's not the case, there is a simple jetty server, which allows to deploy it 
 Service is compiled and built using maven and requires >= Java 11.
 
 Covered user stories:
+    
     • get list of all available currencies
     • get all EUR exchange rates for the chosen date
     • get EUR exhange rate for a particular currency and the chosen date
